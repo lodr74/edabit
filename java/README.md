@@ -1,1 +1,1 @@
-This is a collection of the java challenges. 
+This is a collection of the expert level challenges. 

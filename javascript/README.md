@@ -1,1 +1,1 @@
-This is a collection of the javascript challenges. 
+This is a collection of the expert level challenges. 
