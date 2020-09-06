@@ -1,0 +1,9 @@
+<?php
+
+function correctSpacing($sentence) {
+	
+	
+}
+
+echo correctSpacing("A glittering gem is not enough.", correctSpacing(" A  glittering  gem     is    not   enough.") . "\n";
+?>
